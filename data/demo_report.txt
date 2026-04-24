@@ -1,0 +1,74 @@
+1. Letter to Shareholders
+Fiscal year 2025 was a year of "Orbital Scaling." While the global economy faced headwinds, Nebula Sky Systems achieved a record total revenue of $1.4B, up from $1.21B in 2024. Our "Project Icarus" initiative absorbed $350M in R&D, but it positions us as the only provider with sub-10ms latency.
+2. Consolidated Financial Data (The "Number Crunch")
+Metric (in Millions USD)	FY 2023	FY 2024	FY 2025
+Total Revenue	$1,050	$1,210	$1,400
+Cost of Goods Sold	$600	$680	$790
+Gross Margin (%)	42.80%	43.80%	43.50%
+R&D Expenses	$210	$285	$350
+Marketing & Sales	$110	$125	$145
+Net Income	$140	$185	$210
+Cash on Hand	$480	$400	$320
+Long-term Debt	$150	$140	$275
+Accounts Receivable	$95	$112	$138
+Employee Count	1,200	1,450	1,820
+3. Regional Revenue Breakdown
+Our global footprint expanded significantly this year:
+
+North America: $620M (Primary driver: Defense contracts)
+
+Europe: $380M (Primary driver: Commercial maritime)
+
+Asia-Pacific: $290M (Primary driver: 5G backhaul partnerships)
+
+Latin America: $110M (Emerging market focus)
+4. Operational Milestones (25 Key Entries)
+Launch Success: Successfully deployed 48 satellites across 4 dedicated launches.
+
+Fleet Size: Total active satellites in LEO (Low Earth Orbit) reached 112 units.
+
+User Base: Commercial subscribers grew by 34% to 890,000 active terminals.
+
+Defense Contract: Signed a $200M five-year deal with the "Global Space Alliance."
+
+Competitor Alert: Identified Orbit-X as a primary threat in the European maritime sector.
+
+Supply Chain: Secured a 3-year deal for Krypton gas supply at fixed 2024 prices.
+
+Infrastructure: Opened a new ground station in Perth, Australia.
+
+Patent Portfolio: Granted 14 new patents related to phased-array antenna design.
+
+Regulatory: Received FCC approval for Spectrum Band Ka-2.
+
+Headcount: Engineering department grew by 22% in FY 2025.
+
+Energy: Shifted 40% of ground station operations to Solar Power.
+
+Acquisition: Acquired "SmallSat Logic" for $45M in an all-cash deal.
+
+Risk Factor: Rare-earth element pricing increased by 18% in Q2.
+
+Customer Churn: Monthly churn rate dropped from 2.1% to 1.8%.
+
+Dividends: Declared a dividend of $0.12 per share.
+
+Buybacks: Authorized $50M for share repurchases starting Q1 2026.
+
+Liability: Facing a minor lawsuit regarding land use in New Mexico.
+
+Sustainability: De-orbited 3 legacy satellites to reduce space debris.
+
+Partnership: Joint venture with Telco-Giant for rural Africa connectivity.
+
+Hardware: Launched "V3 Gateway" terminal, reducing manufacturing costs by 12%.
+
+Cybersecurity: Successfully blocked 1.2M unauthorized access attempts in Q4.
+
+Insurance: Premiums for launch coverage rose by 9% due to market volatility.
+
+Logistics: Moved 80% of satellite assembly to a new facility in Texas.
+
+Marketing: Spent $12M on the "Connect the Unconnected" campaign.
+
+Target 2026: Aiming for $1.8B in revenue for the next fiscal year.

@@ -1,0 +1,19 @@
+# Web Interface
+streamlit
+
+# AI & LLM Inference
+groq
+langchain
+langchain-community
+langchain-groq
+
+# Vector Database & Embeddings
+chromadb
+sentence-transformers
+
+# PDF Handling & Export
+fpdf
+pypdf
+
+# Utilities
+python-dotenv
