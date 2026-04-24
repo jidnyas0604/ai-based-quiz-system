@@ -1,4 +1,4 @@
-# 🚀 AI-Based Finance Quiz System (Nebula AI)
+# 🚀 AI-Based Finance Quiz System
 
 **Course:** GenAI Skill-Based Course  
 **Collaboration:** Medi-Caps University x Datagami  
