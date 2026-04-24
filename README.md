@@ -1,10 +1,5 @@
 # 🚀 AI-Based Finance Quiz System
 
-**Course:** GenAI Skill-Based Course  
-**Collaboration:** Medi-Caps University x Datagami  
-**Group:** 03D5 | **Project Number:** DO-03
-
----
 
 ## 📌 Project Overview
 The **AI-Based Finance Quiz System** is a RAG-powered (Retrieval-Augmented Generation) application designed to enhance financial literacy. It allows users to select complex financial reports, generates dynamic quizzes using Llama 3.3, and provides a personalized study guide based on user performance.
